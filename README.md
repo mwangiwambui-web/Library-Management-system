@@ -31,7 +31,7 @@ This project is a fully-featured **Library Management System** implemented using
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/mwangiwambui-web/library.git
+   git clone https://github.com/mwangiwambui-web/Library-Management-system.git
    cd library
 
 ---
